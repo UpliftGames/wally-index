@@ -1,0 +1,1 @@
+{"package":{"name":"lucien/roact-rodux","version":"0.3.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":null,"authors":[]},"dependencies":{"Roact":"roblox/roact@>=1.4.0, <2.0.0","Rodux":"roblox/rodux@>=3.0.0, <4.0.0"},"server-dependencies":{},"dev-dependencies":{}}
