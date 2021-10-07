@@ -1,0 +1,1 @@
+{"package":{"name":"sleitnick/loader","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Requires all modules within a given instance","license":"MIT","authors":["Stephen Leitnick"]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
