@@ -1,0 +1,1 @@
+{"package":{"name":"sleitnick/enum-list","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Enum List class","license":"MIT","authors":["Stephen Leitnick"]},"dependencies":{"Symbol":"sleitnick/symbol@>=1.0.0, <2.0.0"},"server-dependencies":{},"dev-dependencies":{}}
