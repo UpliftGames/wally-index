@@ -1,0 +1,1 @@
+{"package":{"name":"sleitnick/streamable","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Streamable class and StreamableUtil","license":"MIT","authors":["Stephen Leitnick"]},"dependencies":{"Janitor":"howmanysmall/janitor@>=1.13.12, <2.0.0"},"server-dependencies":{},"dev-dependencies":{}}
