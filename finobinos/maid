@@ -1,1 +1,2 @@
 {"package":{"name":"finobinos/maid","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Maid class","license":"Apache-2.0","authors":["finobinos"]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
+{"package":{"name":"finobinos/maid","version":"0.2.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Maid class","license":"Apache-2.0","authors":["finobinos"]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
