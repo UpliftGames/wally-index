@@ -1,1 +1,2 @@
 {"package":{"name":"finobinos/numberutil","version":"1.0.1","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"NumberUtil","license":"Apache-2.0","authors":["finobinos"]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
+{"package":{"name":"finobinos/numberutil","version":"1.0.2","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"NumberUtil","license":"Apache-2.0","authors":["finobinos"]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
