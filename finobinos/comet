@@ -1,0 +1,1 @@
+{"package":{"name":"finobinos/comet","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":null,"authors":[]},"dependencies":{"Promise":"evaera/promise@>=3.1.0, <4.0.0","SafeWaitUtil":"finobinos/safewaitutil@>=0.1.0, <0.2.0"},"server-dependencies":{},"dev-dependencies":{}}
