@@ -1,0 +1,1 @@
+{"package":{"name":"sleitnick/log","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Log class for logging to PlayFab","license":"MIT","authors":["Stephen Leitnick"]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
