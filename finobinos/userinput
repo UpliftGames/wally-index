@@ -1,0 +1,1 @@
+{"package":{"name":"finobinos/userinput","version":"1.0.2","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"UserInputUtil","license":"Apache-2.0","authors":["finobinos"]},"dependencies":{"Signal":"finobinos/signal@>=1.0.2, <2.0.0"},"server-dependencies":{},"dev-dependencies":{}}
