@@ -1,2 +1,3 @@
 {"package":{"name":"howmanysmall/helium","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":null,"authors":[]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
 {"package":{"name":"howmanysmall/helium","version":"1.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":null,"authors":[]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
+{"package":{"name":"howmanysmall/helium","version":"1.1.1","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":null,"authors":[]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
