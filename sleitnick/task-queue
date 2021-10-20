@@ -1,0 +1,1 @@
+{"package":{"name":"sleitnick/task-queue","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Batches tasks that occur on the same execution step","license":"MIT","authors":["Stephen Leitnick"]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
