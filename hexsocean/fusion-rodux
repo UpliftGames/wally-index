@@ -1,0 +1,1 @@
+{"package":{"name":"hexsocean/fusion-rodux","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":null,"authors":[]},"dependencies":{"Fusion":"elttob/fusion@>=0.0.1-beta, <0.0.2"},"server-dependencies":{},"dev-dependencies":{}}
