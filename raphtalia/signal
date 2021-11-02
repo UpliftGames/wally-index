@@ -1,1 +1,2 @@
 {"package":{"name":"raphtalia/signal","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":null,"authors":[]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
+{"package":{"name":"raphtalia/signal","version":"1.0.1","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Roblox Signal library","license":"MIT","authors":[]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
