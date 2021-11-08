@@ -1,1 +1,2 @@
 {"package":{"name":"octale/tokeru","version":"0.0.1","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Fading effect for technically everything","license":null,"authors":[]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
+{"package":{"name":"octale/tokeru","version":"0.0.2","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Fading effect for technically everything","license":"MIT","authors":[]},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
