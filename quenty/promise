@@ -1,0 +1,1 @@
+{"package":{"name":"quenty/promise","version":"3.1.2","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Promise implementation for Roblox","license":"MIT","authors":["James Onnen"]},"dependencies":{"Maid":"quenty/maid@>=2.0.1-canary, <3.0.0","loader":"quenty/loader@>=3.1.1-canary, <4.0.0"},"server-dependencies":{},"dev-dependencies":{}}
