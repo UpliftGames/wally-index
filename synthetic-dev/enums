@@ -1,0 +1,1 @@
+{"package":{"name":"synthetic-dev/enums","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"A simple custom enum package","license":"MIT","authors":["SyntheticDev"],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
