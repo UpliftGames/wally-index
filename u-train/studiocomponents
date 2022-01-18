@@ -1,0 +1,1 @@
+{"package":{"name":"u-train/studiocomponents","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":null,"authors":[],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{"Roact":"roblox/roact@>=1.4.2, <2.0.0"},"server-dependencies":{},"dev-dependencies":{}}
