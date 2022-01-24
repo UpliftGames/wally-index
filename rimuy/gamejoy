@@ -1,0 +1,1 @@
+{"package":{"name":"rimuy/gamejoy","version":"1.1.0","registry":"https://github.com/upliftgames/wally-index","realm":"shared","description":"A simple class-based input library","license":"MIT","authors":["Rimuy"],"include":[],"exclude":["*.d.ts"]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
