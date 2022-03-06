@@ -1,0 +1,1 @@
+{"package":{"name":"synthetic-dev/kache","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"(Unofficial) It's a caching system!","license":"MIT","authors":["Lewis_Schumer"],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
