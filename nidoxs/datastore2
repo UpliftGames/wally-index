@@ -1,0 +1,1 @@
+{"package":{"name":"nidoxs/datastore2","version":"1.4.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"DataStore2 ported to wally","license":"MIT","authors":["Kampfkarren"],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
