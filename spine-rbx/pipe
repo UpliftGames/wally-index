@@ -1,0 +1,1 @@
+{"package":{"name":"spine-rbx/pipe","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":null,"authors":[],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{"object":"spine-rbx/object@>=0.1.0, <0.2.0"},"server-dependencies":{},"dev-dependencies":{}}
