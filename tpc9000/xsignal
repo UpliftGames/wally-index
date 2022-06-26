@@ -1,0 +1,1 @@
+{"package":{"name":"tpc9000/xsignal","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":"MIT","authors":["tpc9000"],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{"TypeGuard":"tpc9000/typeguard@>=2.2.0, <3.0.0"},"server-dependencies":{},"dev-dependencies":{}}
