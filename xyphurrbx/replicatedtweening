@@ -1,0 +1,1 @@
+{"package":{"name":"xyphurrbx/replicatedtweening","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Run client-sided tweens from the server","license":"GNU","authors":[],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
