@@ -1,0 +1,1 @@
+{"package":{"name":"minstrix/ancestor","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":"GNU GPLv3","authors":[],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{"Option":"sleitnick/option@>=1.0.4, <2.0.0"},"server-dependencies":{},"dev-dependencies":{}}
