@@ -1,0 +1,1 @@
+{"package":{"name":"nezuo/lapis","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"server","description":null,"license":null,"authors":[],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{"Promise":"evaera/promise@>=4.0.0, <5.0.0"},"server-dependencies":{},"dev-dependencies":{}}
