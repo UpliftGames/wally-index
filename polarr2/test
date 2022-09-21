@@ -1,0 +1,1 @@
+{"package":{"name":"polarr2/test","version":"0.0.1","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":null,"authors":[],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{"Knit":"sleitnick/knit@>=1.0.0, <2.0.0"},"server-dependencies":{},"dev-dependencies":{}}
