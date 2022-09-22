@@ -1,0 +1,1 @@
+{"package":{"name":"reimakesgames/prisma","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":null,"authors":[],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{"link":"reimakesgames/link@>=0.2.3, <0.3.0"},"server-dependencies":{},"dev-dependencies":{}}
