@@ -1,0 +1,1 @@
+{"package":{"name":"bubshayz/soundutil","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"A utility module for working with sounds.","license":"MIT","authors":["bubshayz"],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
