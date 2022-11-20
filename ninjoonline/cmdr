@@ -1,0 +1,1 @@
+{"package":{"name":"ninjoonline/cmdr","version":"1.9.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Extensible command console for Roblox developers","license":"MIT","authors":[],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
