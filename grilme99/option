@@ -1,0 +1,1 @@
+{"package":{"name":"grilme99/option","version":"1.0.5","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Represent optional values in Lua","license":"MIT","authors":["Stephen Leitnick"],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
