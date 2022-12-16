@@ -1,0 +1,1 @@
+{"package":{"name":"mattschrubb/fusion","version":"0.2.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Fusion version 0.2.0 fork","license":null,"authors":[],"include":["src","wally.toml"],"exclude":["**"]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
