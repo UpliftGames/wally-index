@@ -1,0 +1,1 @@
+{"package":{"name":"scytheric/lunar-cmdr","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Heavily modified version of Cmdr to suite my needs.","license":"MIT","authors":[],"include":[],"exclude":[]},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
