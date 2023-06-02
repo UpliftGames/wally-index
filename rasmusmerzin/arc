@@ -1,0 +1,1 @@
+{"package":{"name":"rasmusmerzin/arc","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Arc class","license":"MIT","authors":["Emil Rasmus Merzin"],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
