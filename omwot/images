@@ -1,0 +1,1 @@
+{"package":{"name":"omwot/images","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Image asset management library","license":"MIT","authors":["omwot"],"include":[],"exclude":["Assets"],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
