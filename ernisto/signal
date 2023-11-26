@@ -1,0 +1,1 @@
+{"package":{"name":"ernisto/signal","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"A light-weight BindableEvent wrapper","license":null,"authors":[],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
