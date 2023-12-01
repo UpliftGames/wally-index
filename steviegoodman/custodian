@@ -1,0 +1,1 @@
+{"package":{"name":"steviegoodman/custodian","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Simple Option and Result types.","license":null,"authors":[],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
