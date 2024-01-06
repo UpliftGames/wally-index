@@ -1,0 +1,1 @@
+{"package":{"name":"jessekroeske/rodux","version":"3.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"A wally package of Roblox's Rodux","license":"MIT","authors":["Roblox"],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
