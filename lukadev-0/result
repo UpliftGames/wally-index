@@ -1,0 +1,1 @@
+{"package":{"name":"lukadev-0/result","version":"1.0.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Result<T, E> type in Luau","license":"MIT","authors":["LukaDev"],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
