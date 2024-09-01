@@ -1,0 +1,1 @@
+{"package":{"name":"sircfenner/png-luau","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Luau library for working with PNG files","license":"MIT","authors":[],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
