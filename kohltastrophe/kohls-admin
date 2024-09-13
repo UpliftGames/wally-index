@@ -1,0 +1,1 @@
+{"package":{"name":"kohltastrophe/kohls-admin","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"server","description":null,"license":"MIT","authors":["Kohl <admin@kohl.gg>"],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
