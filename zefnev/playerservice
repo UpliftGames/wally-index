@@ -1,0 +1,1 @@
+{"package":{"name":"zefnev/playerservice","version":"0.1.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":null,"license":"MIT","authors":[],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{"Data":"zefnev/data@>=0.1.0, <0.2.0"},"server-dependencies":{},"dev-dependencies":{}}
