@@ -1,0 +1,1 @@
+{"package":{"name":"hex-interactive/gizmoutil","version":"1.0.0","registry":"https://github.com/upliftgames/wally-index","realm":"shared","description":"Simple debug gizmo utility library","license":"MIT","authors":[],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
