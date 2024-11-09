@@ -1,0 +1,1 @@
+{"package":{"name":"coiorevent8/maid","version":"3.4.0","registry":"https://github.com/UpliftGames/wally-index","realm":"shared","description":"Maid class","license":"Apache-2.0","authors":["coior"],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
